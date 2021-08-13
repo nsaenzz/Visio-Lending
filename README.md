@@ -63,7 +63,9 @@ Refer the [api specification](#api-specification) for more info.
 
 {
 	"disqualified_states": {
+    
 		"1": "State Name"
+        
 	},
 	"credit_score_modifier":{
 		"reduce":{
