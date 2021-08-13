@@ -18,6 +18,8 @@ Install all the dependencies using composer
 
     composer install
    
+## Classes
+- `\app\Classes` - Contains all the classes for this app, which they are called by ProductRunRuleController
 
 # Rules - Json format
 
