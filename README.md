@@ -97,7 +97,7 @@ Install all the dependencies using composer
 
 
 - Body Json Example
-
+```json
 {
     "person": {
         "name": "Neil",
@@ -109,3 +109,4 @@ Install all the dependencies using composer
         "interest_rate": "5.0"
     }
 }
+```
