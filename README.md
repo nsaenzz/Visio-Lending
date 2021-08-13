@@ -109,5 +109,3 @@ Install all the dependencies using composer
         "interest_rate": "5.0"
     }
 }
-
-Refer the [api specification](#api-specification) for more info.
