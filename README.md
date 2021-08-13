@@ -59,7 +59,8 @@ Refer the [api specification](#api-specification) for more info.
 
 - `storage\app\json` - Contains json file where the Product Rule are
 
-##Format
+## Format
+
 ```json
 {
 	"disqualified_states": {    
@@ -84,8 +85,10 @@ Refer the [api specification](#api-specification) for more info.
 		}
 	}
 }
+```
+## Example
 
-##Example
+```json
 {
 	"disqualified_states": {
 		"1": "Florida"
@@ -106,4 +109,4 @@ Refer the [api specification](#api-specification) for more info.
 		}
 	}
 }
-
+```
