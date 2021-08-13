@@ -31,7 +31,7 @@ Run the laravel development server
 
 The api can now be accessed at
 
-    http://127.0.0.1:8000/api/productRunRule
+    POST http://127.0.0.1:8000/api/productRunRule
 
 Request body
 
