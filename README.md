@@ -60,7 +60,7 @@ Refer the [api specification](#api-specification) for more info.
 - `storage\app\json` - Contains json file where the Product Rule are
 
 ##Format
-
+```json
 {
 	"disqualified_states": {    
 		"1": "State Name"        
